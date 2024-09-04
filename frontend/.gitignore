@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*.PORT=4001
+*.MongoDBURI=mongodb+srv://mubashirahmadcse2020:Zde819SQaPan9Hwu@project2.h8ibr.mongodb.net/?retryWrites=true&w=majority&appName=project2
